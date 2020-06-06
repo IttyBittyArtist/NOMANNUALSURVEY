@@ -1,0 +1,17 @@
+﻿Option,Selected,Not Selected,OptionID
+Architecture & construction,57,275,L20a ProSvc Architecture
+Bookkeeping,84,248,L20b ProSvc Bookkeeping
+Building maintenance,58,274,L20c ProSvc Build Maint
+Cleaning,70,262,L20d ProSvc Cleaning
+Conflict resolution,5,327,L20e ProSvc Conflict Res
+Design/marketing,39,293,L20f ProSvc Design Mktg
+Equipment maintenance,35,297,L20g ProSvc Equip Maint
+"Extreme weather incidents (snow, flood, hurricane)",28,304,L20h ProSvc Extreme Weather
+Insurance,154,178,L20i ProSvc Insurance
+IT/Web development,48,284,L20j ProSvc IT Web
+Legal,106,226,L20k ProSvc Legal
+"MEP (electrical, plumbing, HVAC)",84,248,L20l ProSvc MEP
+Outside yard maintenance,34,298,L20m ProSvc Outside Yard
+Realtor,21,311,L20n ProSvc Realtor
+Taxes/accounting,99,233,L20o ProSvc Taxes
+Zoning/city ordinances,21,311,L20p ProSvc Zoning City

@@ -1,0 +1,72 @@
+﻿Option,Selected,Not Selected,OptionID
+Administrative - Writing and managing contracts,126,206,L13aa Tasks Admin Writing
+Administrative - Legal documents (1099s),76,256,L13ab Tasks Admin Legal
+Administrative - Recruiting volunteers or staff,186,146,L13ac Tasks Admin Recruit
+Administrative - Insurance,80,252,L13ad Tasks Admin Insurance
+Administrative - Serving on a board,131,201,L13ae Tasks Admin Board Svc
+"Administrative - Collecting and managing liability waivers, guest forms, etc.",142,190,L13af Tasks Admin Waivers
+Education - Teaching,244,88,L13ag Tasks Edu Teaching
+Education - Writing curriculum,164,168,L13ah Tasks Edu Writing Curriculum
+Education - Teacher evaluation,77,255,L13ai Tasks Edu Teacher Eval
+Education - Workshop planning,202,130,L13aj Tasks Edu Workshop Plan
+Fundraising - Writing grants,120,212,L13ak Fund Grants
+Fundraising - Donor management,82,250,L13al Fund Donor Mgmt
+Fundraising - Grant reporting/compliance,82,250,L13am Fund Grant Compliance
+Fundraising - Event management,136,196,L13an Fund Event Mgmt
+Fundraising - Partnership management,96,236,L13ao Fund Partner Mgmt
+HR - Staff management,104,228,L13ap HR Staff
+HR - Policy issues,117,215,L13aq HR Policy
+HR - Tracking Hours,66,266,L13ar HR Tracking
+HR - Resolving disputes internally,124,208,L13as HR Resolving Disputes
+HR - External conflict resolution (within the greater community),81,251,L13at HR External Conflicts
+HR - Volunteer Coordinator,100,232,L13au HR Vol Coordinator
+HR - Recognition,72,260,L13av HR Recognition
+HR - Legal documents (W-9s),50,282,L13aw HR Legal
+IT - Network/Systems,90,242,L13ax IT Network
+IT -Â Web development,74,258,L13ay IT Web
+IT -Â Security,53,279,L13az IT Security
+Finance -Â Invoicing and/or billing members,82,250,L13ba Finance Invoice Bill
+Finance -Â Accounting,84,248,L13bb Finance Accounting
+Finance -Â Grants management,71,261,L13bc Finance Grants Mgmt
+Finance -Â Fiscal sponsorship management,38,294,L13bd Finance Fiscal Mgmt
+Finance -Â Budgeting,134,198,L13be Finance Budgeting
+Finance -Â Paying bills,88,244,L13bf Finance Bills
+Finance -Â Taxes & 501c3 compliance,68,264,L13bg Finance Taxes 501c3
+Finance -Â Payroll,40,292,L13bh Finance Payroll
+Finance - PreparingÂ documents for an accountant,52,280,L13bi Finance Accounting Prep
+Finance -Â  Donation Acceptance and Response,77,255,L13bj Finance Donation
+Marketing -Â Press Liaison,75,257,L13bk Mktg Press
+Marketing -Â Strategy,113,219,L13bl Mktg Strategy
+Marketing -Â Social media,139,193,L13bm Mktg Social Media
+Marketing -Â Design,86,246,L13bn Mktg Design
+Marketing -Â Web site,106,226,L13bo Mktg Web Site
+Marketing -Â Blog,58,274,L13bp Mktg Blog
+Marketing -Â Newsletter/email.,81,251,L13bq Mktg Newsletter
+"Marketing -Â Events (Maker Faires, Maker markets, repair cafes)",162,170,L13br Mktg Events
+"Marketing -Â Calendar (private, public, community)",110,222,L13bs Mktg Calendar
+Marketing - Documenting whatâ€™s being made,108,224,L13bt Mktg Documenting
+Marketing -Â Videos,69,263,L13bu Mktg Videos
+Marketing -Â Historian,42,290,L13bv Mktg Historian
+Operations -Â Managing memberships/ makerspace access,144,188,L13bw Ops Managing Access
+Operations -Â Inventory management / ordering / updating,159,173,L13bx Ops Inventory
+Operations -Â Maintaining equipment,194,138,L13by Ops Maint Equip
+Operations -Â Maintaining the facility,194,138,L13bz Ops Maint Facility
+Operations -Â Building internal projects for the shop,151,181,L13ca Ops Building Projects
+Operations -Â Cleaning,192,140,L13cb Ops Cleaning
+Operations -Â Groundskeeping,49,283,L13cc Ops Groundskeeping
+Operations - tracking equipment including ownership and issues,126,206,L13cd Ops Tracking Equip
+Operations -Â Facility/Infrastructure improvement (planning and doing),144,188,L13ce Ops Facility Infra
+Operations -Â Documenting processes that the organization will follow (Operations Manual),146,186,L13cf Ops Process Doc Org
+Operations -Â Documenting processes for the members to follow (Members Manual),131,201,L13cg Ops Process Doc Memb
+Operations -Â Serving on a committee/action team,115,217,L13ch Ops Committee
+Operations -Â Event Management,147,185,L13ci Ops Event Mgmt
+Operations -Â Security,57,275,L13cj Ops Security
+Operations -Â Training,160,172,L13ck Ops Training
+Operations -Â Management,131,201,L13cl Ops Management
+Operations - Mail/deliveries management,52,280,L13cm Ops Mail Deliveries
+Sales - Memberships,86,246,L13cn Sales Memberships
+Sales - Events or space rentals,79,253,L13co Sales Events Space
+Sales - Classes,101,231,L13cp Sales Classes
+"Sales - Partnership development (schools, universities, other makerspaces, etc.)",96,236,L13cq Sales Partnerships
+"Sales -Â Services for-hire (custom fabrication, etc)",53,279,L13cr Sales Services
+Sales - Facility tours,131,201,L13cs Sales Facility Tours

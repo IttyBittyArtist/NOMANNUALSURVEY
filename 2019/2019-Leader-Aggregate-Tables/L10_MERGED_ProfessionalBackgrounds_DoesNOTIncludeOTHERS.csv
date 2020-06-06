@@ -1,0 +1,24 @@
+﻿Option,Selected,Not Selected,OptionID
+Management Occupations,46,286,L10a Pro BG Management
+Business and Financial Operations Occupations,24,308,L10b Pro Business Finance
+Computer and Mathematical Occupations,76,256,L10c Computer Math
+Architecture and Engineering Occupations,53,279,L10d Architect Eng
+"Life, Physical, and Social Science Occupations",12,320,L10e Life Physical Soc Sci
+Community and Social Service Occupations,8,324,L10f Community Social
+Legal Occupations,3,329,L10g Legal
+Educational Instruction and Library Occupations,114,218,L10h Edu Instruction
+"Arts, Design, Entertainment, Sports, and Media Occupations",70,262,L10i_Arts_Ent_Sports
+Healthcare Practitioners and Technical Occupations,5,327,L10j_Healthcare_Pract_Tech
+Healthcare Support Occupations,6,326,L10k_Healthcare_Support
+Protective Service Occupations,1,331,L10l_Protective_Svc
+Food Preparation and Serving Related Occupations,9,323,L10m_Food_Prep
+Building and Grounds Cleaning and Maintenance Occupations,4,328,L10n Building Grounds
+Personal Care and Service Occupations,2,330,L10o Personal Care Svc
+Sales and Related Occupations,13,319,L10p Sales
+Office and Administrative Support Occupations,16,316,L10q Office Admin
+Transportation and Material Moving Occupations,3,329,L10q Transportation
+"Farming, Fishing, and Forestry Occupations",6,326,L10r Farm Fish Forest
+Military Specific Occupations,4,328,L10r Military
+Construction and Extraction Occupations,10,322,L10s Constn Extractn
+"Installation, Maintenance, and Repair Occupations",20,312,L10t Installation Maint
+Production Occupations,21,311,L10u Production
