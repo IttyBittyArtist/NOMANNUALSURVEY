@@ -18,7 +18,7 @@ More details here: https://makethedata.org/2019/07/19/nation-of-makers-annual-su
 
 None of this could happen without the hard work of an amazing team. Here are the individuals who have contributed to this work:
 
-Current team:
+Current Team:
 - Jeanette Breton
 - Katherine Cannistra
 - Ronald Williams
@@ -34,9 +34,10 @@ Past Members:
 - Nan Braun
 - Liam O’Brien
 
+## Thank-You's
+Open Works Makerspace - Hosting the 2019 Data Retreat
+Coppin State University - Collaborative writing and research
+Maryland Institute College of Art - The initial survey was a project of the Information Visualization Master's of Professional Study Program.
+
 ## Error Reporting
-Should you find a type-o or other error in the work, please submit it in the contact form on this page: https://makethedata.org/contact/
-
-
-
-
+Should you find a type-o or other error in the work, please submit it in the contact form on this page: https://makethedata.org/report-a-bug/
