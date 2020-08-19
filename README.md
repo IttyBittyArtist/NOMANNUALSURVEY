@@ -2,14 +2,14 @@
 
 This data is from the annual Survey of Makerspaces, which launched in 2018. It is a community effort to document and learn about makerspaces, hackerspaces, and all other types of organizations dedicated to teaching through making. 
 
-You can learn more about the survey on makethedat.org
+You can learn more about the survey on makethedata.org
 
 
 ## Attribution
 
 This work is proudly done by the Nation of Makers Impact and Metrics Working Group - aka the Data Working group. If you are using these graphics, please cite: 
 
-“Nation of Makers Annual Survey of Makerspaces Report” on MakeTheData.org by the Nation of Makers Impact and Metrics Working Group. The project is licensed under CC BY 4.0.
+“Nation of Makers Annual Survey of Makerspaces Report” on MakeTheData.org by the Nation of Makers Metric of Impact Working Group. The project is licensed under CC BY 4.0.
 
 More details here: https://makethedata.org/2019/07/19/nation-of-makers-annual-survey-of-makerspaces-repository/
 
