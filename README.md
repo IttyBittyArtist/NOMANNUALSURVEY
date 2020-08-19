@@ -35,9 +35,9 @@ Past Members:
 - Liam O’Brien
 
 ## Thank-You's
-Open Works Makerspace - Hosting the 2019 Data Retreat
-Coppin State University - Collaborative writing and research
-Maryland Institute College of Art - The initial survey was a project of the Information Visualization Master's of Professional Study Program.
+- Open Works Makerspace - Hosting the 2019 Data Retreat
+- Coppin State University - Collaborative writing and research
+- Maryland Institute College of Art - The initial survey was a project of the Information Visualization Master's of Professional Study Program.
 
 ## Error Reporting
 Should you find a type-o or other error in the work, please submit it in the contact form on this page: https://makethedata.org/report-a-bug/
